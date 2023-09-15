@@ -1,0 +1,64 @@
+{
+  "jogadores": [
+    {
+      "nome": "Vini Jr.",
+      "posicao": "Ponta Esquerda",
+      "numero": 10,
+      "imagem": "assets/imagens/.webp"
+    },
+    {
+      "nome": "Rodrygo",
+      "posicao": "Ponta Direita",
+      "numero": 20,
+      "imagem": "assets/imagens/.webp"
+    },
+    {
+      "nome": "Modric",
+      "posicao": "Meio Campo",
+      "numero": 50,
+      "imagem": "assets/imagens/.webp"
+    },
+    {
+      "nome": "Bellingham",
+      "posicao": "Meio Campo",
+      "numero": 30,
+      "imagem": "assets/imagens/.webp"
+    },
+    {
+      "nome": "Mendy",
+      "posicao": "Lateral",
+      "numero": 10,
+      "imagem": "assets/imagens/.webp"
+    },
+    {
+      "nome": "Carvajal",
+      "posicao": "Lateral",
+      "numero": 20,
+      "imagem": "assets/imagens/.webp"
+    },
+    {
+      "nome": "Alaba",
+      "posicao": "Zagueiro",
+      "numero": 50,
+      "imagem": "assets/imagens/.webp"
+    },
+    {
+      "nome": "Éder Militão",
+      "posicao": "Zagueiro",
+      "numero": 30,
+      "imagem": "assets/imagens/.webp"
+    },
+    {
+      "nome": "Joselu",
+      "posicao": "Atacante",
+      "numero": 30,
+      "imagem": "assets/imagens/.webp"
+    },
+    {
+      "nome": "Courtois",
+      "posicao": "Goleiro",
+      "numero": 30,
+      "imagem": "assets/imagens/.webp"
+    }
+  ]
+}
